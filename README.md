@@ -33,13 +33,13 @@
 ---
 
 ### 📫 How to Reach Me 
-### 📬 How to Reach Me
-
 <p align="left">
   <a href="mailto:amani22kama@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
-  <a href="https://x.com/8e_km?s=21"><img src="https://img.icons8.com/fluency/48/x.png" alt="X"/></a>
+  <a href="https://x.com/8e_km?s=21"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="48"/></a>
   <a href="https://www.linkedin.com/in/%D8%A7%D9%85%D8%A7%D9%86%D9%8A-%D8%AE%D8%A8%D8%B1%D8%A7%D9%86%D9%8A-32258127a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
+
 
 ### 📊 GitHub Stats  
 ![Amani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
